@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<jobs>
+   <item>
+      <title>XML Developer</title>
+      <src url="http://www.here.com">Here.com</src>
+      <salary ccy="usd">50,000</salary>
+      <salary ccy="gbp">30,000</salary>
+      <publish_date>Tue, 06 Oct 2010 15:21:48 +0000</publish_date>
+      <description>A job creating applications with XML.</description>
+   </item>
+   <item>
+      <title>Drupal Developer</title>
+      <src url="http://www.there.com">There.com</src>
+      <salary ccy="usd">60,000</salary>
+      <salary ccy="gbp">40,000</salary>
+      <publish_date>Tue, 07 Oct 2010 15:21:48 +0000</publish_date>
+      <description>A job creating applications with Drupal.</description>
+   </item>
+</jobs>
